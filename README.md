@@ -76,7 +76,7 @@ ant compile
 ant run
 ```
 
-## Cleaning the Project
+### Cleaning the Project
 If you need to clean the compiled files, run:
 
 ```bash
