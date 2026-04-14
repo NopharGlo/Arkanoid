@@ -1,7 +1,7 @@
 # Arkanoid: The Creation of the Big Bang
 
 ## Description
-**Arkanoid: The Creation of the Big Bang Edition is a custom version of the classic arcade game *Arkanoid*. In this game, you control a paddle at the bottom of the screen and use it to bounce a ball to break all the bricks. The game features a unique thematic progression with four exciting levels, each having a different background.
+** Arkanoid: The Creation of the Big Bang Edition is a custom version of the classic arcade game *Arkanoid*. In this game, you control a paddle at the bottom of the screen and use it to bounce a ball to break all the bricks. The game features a unique thematic progression with four exciting levels, each having a different background.
 
 ## Features
 
