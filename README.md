@@ -57,26 +57,33 @@ Make sure you have installed:
 ---
 
 ## ▶️ Run the Game
+
 Open a terminal or command prompt.
+### Get the project (if needed)
 
-### Navigate to the project folder:
-
+Clone the repository:
 ```bash
-cd path/to/project/Arkanoid
+git clone https://github.com/NopharGlo/Arkanoid.git
 ```
 
-### Compile the game:
+### Navigate to the project folder
+
+```bash
+cd Arkanoid
+```
+
+### Compile the game
 
 ```bash
 ant compile
 ```
 
-### Run the game:
+### Run the game
 ```bash
 ant run
 ```
 
-### Cleaning the Project
+### Clean the Project
 If you need to clean the compiled files, run:
 
 ```bash
