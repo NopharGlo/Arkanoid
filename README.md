@@ -62,7 +62,7 @@ Open a terminal or command prompt.
 ### Navigate to the project folder:
 
 ```bash
-cd path/to/project
+cd path/to/project/Arkanoid
 ```
 
 ### Compile the game:
